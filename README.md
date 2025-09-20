@@ -14,7 +14,7 @@
 
 ## What is DevonThink?
 
-![DevonThink Interface]https://www.devontechnologies.com/media/pages/blog/devonthink-30b1/2afeb5abfb-1636213381/packshot_devonthink_3_dark.png)
+![DevonThink Interface](https://www.devontechnologies.com/media/pages/blog/devonthink-30b1/2afeb5abfb-1636213381/packshot_devonthink_3_dark.png)
 
 DevonThink is a comprehensive knowledge management solution that empowers users to take control of their digital information. This application goes beyond simple file storage by incorporating intelligent analysis tools that understand the content of your documents. It creates connections between disparate pieces of information, revealing patterns and relationships that would otherwise remain hidden.
 
